@@ -1,0 +1,17 @@
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\bin\Debug\netcoreapp3.1\OOP3FinalProjectClasses.deps.json
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\bin\Debug\netcoreapp3.1\OOP3FinalProjectClasses.dll
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\bin\Debug\netcoreapp3.1\OOP3FinalProjectClasses.pdb
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.csprojAssemblyReference.cache
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.AssemblyInfo.cs
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.dll
+C:\Users\micha\Documents\1OOP\OOP3\final project\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.pdb
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\bin\Debug\netcoreapp3.1\OOP3FinalProjectClasses.deps.json
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\bin\Debug\netcoreapp3.1\OOP3FinalProjectClasses.dll
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\bin\Debug\netcoreapp3.1\OOP3FinalProjectClasses.pdb
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.csprojAssemblyReference.cache
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.AssemblyInfoInputs.cache
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.AssemblyInfo.cs
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.dll
+C:\Users\Bobby\Downloads\FinalProjectCompleteSolutionV1\FinalProjectCompleteSolutionV1\OOP3FinalProjectClasses\obj\Debug\netcoreapp3.1\OOP3FinalProjectClasses.pdb
